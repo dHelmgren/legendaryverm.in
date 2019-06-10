@@ -1,0 +1,7 @@
+baseURL = "localhost:1313"
+languageCode = "en-us"
+title = "She's Legendary Vermin"
+
+[params]
+  logo = "/images.center-logo.png"
+  twitter = "/images.Twitter_Logo_WhiteOnImage.svg"
