@@ -1,0 +1,29 @@
+
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+{{ $.Scratch.Set "dot_rendered" false }}
+<nav>
+  <ul class="paginator-group">
+    {{ if and (ne $pag.PageNumber 1) (ne $pag.PageNumber 2) }}
+      <li><a href="{{ $pag.First.URL}}" rel="first">The Hotness</a></li>
+      <li>/</li>
+    {{ end }}
+    {{ if $pag.HasPrev }}
+      <li><a href="{{ $pag.Prev.URL }}" rel="prev">Newer</a></li>
+    {{ else }}
+      <li>Newer</li>
+    {{ end }}
+    <li>/</li>
+    {{ if $pag.HasNext }}
+      <li><a href="{{ $pag.Next.URL }}" rel="next">Older</a></li>
+    {{ else }}
+      <li>Older</li>
+    {{ end }}
+
+    {{ if and (ne $pag.PageNumber $pag.TotalPages) ((ne $pag.PageNumber (sub $pag.TotalPages 1))) }}
+      <li>/</li>
+      <li><a href="{{ $pag.Last.URL }}" rel="last">The Crusty Bits</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}

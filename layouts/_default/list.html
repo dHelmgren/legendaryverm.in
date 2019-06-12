@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+  {{ .Content }}
+  <ul>
+  {{ range .Paginator.Pages }}
+    <li>
+      <a href="{{.URL}}">{{.Title}}</a>    
+    </li>  
+  {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+
+{{ partial "footer.html" . }}

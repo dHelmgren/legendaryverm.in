@@ -39,6 +39,10 @@ nav a:hover {
   color: #31323D;
 }
 
+.paginator-group a:hover {
+  color: #AE3D3D;
+}
+
 /* selected link */
 a:active {
   color: blue;
@@ -73,6 +77,24 @@ article {
 
 article h2 {
   margin-top: 0;
+}
+
+main nav {
+  background: #31323D;
+}
+
+.paginator-group {
+  background: #31323D;
+  color: #86868B;
+  display: flex;
+  justify-content: left;
+  padding: 1em 2em;
+  margin: 0 auto;
+  max-width: 48em;
+}
+
+.paginator-group li {
+  padding: 0em .25em;
 }
 
 footer {

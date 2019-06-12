@@ -1,8 +1,9 @@
 {{ partial "header.html" . }}
-{{ range .Site.RegularPages }}
+{{ range .Paginator.Pages}}
         <article>
         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
         <p>"{{ .Summary }}"</p>
         </article>
 {{ end }}
+{{ partial "pagination.html" . }}
 {{ partial "footer.html" . }}
