@@ -1,13 +1,14 @@
 {{ partial "header.html" . }}
 
+  <article>
   {{ .Content }}
-  <ul>
+  </article>
   {{ range .Paginator.Pages }}
-    <li>
-      <a href="{{.URL}}">{{.Title}}</a>    
-    </li>  
+  <article>
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <p>"{{ .Summary }}"</p>
+  </article>
   {{ end }}
-  </ul>
   {{ partial "pagination" . }}
 
 {{ partial "footer.html" . }}
