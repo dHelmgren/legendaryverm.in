@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on She&#39;s Legendary Vermin</title>
+    <link>localhost:1313/games/</link>
+    <description>Recent content in Games on She&#39;s Legendary Vermin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2019 20:11:04 -0700</lastBuildDate>
+    
+	<atom:link href="localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Game</title>
+      <link>localhost:1313/games/another-game/</link>
+      <pubDate>Tue, 11 Jun 2019 20:03:03 -0700</pubDate>
+      
+      <guid>localhost:1313/games/another-game/</guid>
+      <description>Here is some information about this hot dog of a game. It&amp;rsquo;s pretty cool, and there is link to my itch page.</description>
+    </item>
+    
+    <item>
+      <title>Sample Game</title>
+      <link>localhost:1313/games/sample-game/</link>
+      <pubDate>Tue, 11 Jun 2019 20:02:26 -0700</pubDate>
+      
+      <guid>localhost:1313/games/sample-game/</guid>
+      <description>Here is some information about this hot dog of a game. It&amp;rsquo;s pretty cool, and there is link to my itch page.</description>
+    </item>
+    
+  </channel>
+</rss>
