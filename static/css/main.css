@@ -71,9 +71,8 @@ article {
 }
 
 aside {
-  display: block;
   float: right;
-  padding: 1em 1em;
+  padding: 0em 0em 1em 1em;
 }
 
 #blog-post {

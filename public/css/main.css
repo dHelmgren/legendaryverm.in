@@ -70,6 +70,11 @@ article {
   padding: 1em 2em;
 }
 
+aside {
+  float: right;
+  padding: 0em 0em 1em 1em;
+}
+
 #blog-post {
   display: block;
   min-height: 80vh;

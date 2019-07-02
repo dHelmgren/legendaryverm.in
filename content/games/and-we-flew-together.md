@@ -7,9 +7,9 @@ draft: true
 A new girl moves in down the street from you. You feel connected and drawn to her in a way that is hard to explain. Before long, you share your secret; you can fly like superman.
 
 <aside>
-  <img src="/gameimage.jpeg" alt="Cover Page for AWFT">
-  <br>
   <a href="https://legendary-vermin.itch.io/and-we-flew-together">
+  <img src="images/gameimage.jpeg" alt="Cover Page for AWFT">
+  <br>
   And We Flew Together</a>
 </aside>
 This is a piece I wrote in a single day when I woke up from a very emotionally intense dream. At first I just wanted to capture the experience of the dream itself, but as I wrote it down I gained a clearer understanding of its meaning, and of myself. 
