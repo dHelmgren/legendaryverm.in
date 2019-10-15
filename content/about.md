@@ -12,6 +12,6 @@ It's partially because of the experiences at Ada that I wanted to make this site
 
 ## About This Site
 
-This site was built with Hugo, focusing on making as much of it modern and user friendly as possible without using any Javascript. The theme is based roughly on the layout of [Cool Ghosts](https://coolghosts.net), though the code is my own. I'm inspired by [this article](TODO), which talks about reasons for building your own website.
+This site was built with Hugo, focusing on making as much of it modern and user friendly as possible without using Javascript. The theme is inspired by [Cool Ghosts](https://coolghosts.net), though the code is my own. I'm inspired by [this article](https://matthiasott.com/articles/into-the-personal-website-verse), which talks about reasons for building your own website. This site uses the Montserrat font family.
 
 If you want to use the theme or structure of this site, feel free to, as long as you include attributions as appropriate (you can credit me specifically as Legendary Vermin).

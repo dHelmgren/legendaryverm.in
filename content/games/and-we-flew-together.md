@@ -1,16 +1,13 @@
 ---
 title: "And We Flew Together"
 date: 2019-06-21T10:56:11-07:00
-draft: true
+
 ---
 
 A new girl moves in down the street from you. You feel connected and drawn to her in a way that is hard to explain. Before long, you share your secret; you can fly like superman.
 
 <aside>
-  <a href="https://legendary-vermin.itch.io/and-we-flew-together">
-  <img src="images/gameimage.jpeg" alt="Cover Page for AWFT">
-  <br>
-  And We Flew Together</a>
+  <iframe frameborder="0" src="https://itch.io/embed/272922?bg_color=31323D&amp;fg_color=E8E6E2&amp;link_color=AE3D3D&amp;border_color=86868B" width="208" height="167"></iframe>
 </aside>
 This is a piece I wrote in a single day when I woke up from a very emotionally intense dream. At first I just wanted to capture the experience of the dream itself, but as I wrote it down I gained a clearer understanding of its meaning, and of myself. 
 

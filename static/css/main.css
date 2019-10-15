@@ -55,7 +55,8 @@ header {
 header img {
   display: block;
   margin: 0 auto;
-  min-width: 200px;
+  max-height:20em;
+  max-width: 70%;
 }
 
 main {
@@ -73,7 +74,13 @@ article {
 aside {
   float: right;
   padding: 0em 0em 1em 1em;
+  max-width: 35%;
 }
+
+aside a img {
+  max-width: 100%;
+}
+
 
 #blog-post {
   display: block;
@@ -103,11 +110,8 @@ main nav {
 }
 
 footer {
-  /* display: flex; */
   background: #86868B;
   min-height: 20vh;
-  /* flex-direction: column;
-  justify-content: space-between; */
 }
 
 footer section {

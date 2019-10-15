@@ -1,14 +1,13 @@
 ---
 title: "Grave Business"
 date: 2019-07-01T12:09:55-07:00
-draft: true
 ---
 
 *Foul Magicians Are Afoot!* The sleepy town of Tinsform has recently fallen victim to a grave robber less interested in worldly possessions than they are in corpses. Everyone in town has come to the same conclusion: a heretofore unknown necromancer hell-bent on conquering the region _must_ be to blame. The town constable has summoned a group of adventurers to do what the townsfolk cannot: kill the necromancer.
 
 <aside>
 <a href="https://www.dmsguild.com/product/245712/Grave-Business">
-<img src="images/games/gameimage.jpeg" alt="Cover Page for AWFT">
+<img src="/images/games/Griselle.jpeg" alt="Art made for Grave Business" class="side_img">
 <br>
 Grave Business
 </a>
